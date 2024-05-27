@@ -1,2 +1,2 @@
 # cursohenry
-prep curso henry 2024 modulo 2
+este proyecto es una prueba de como crear un repositorio desde github a mi computadora
